@@ -147,11 +147,11 @@ BODY {
     background-color: white;
     padding: 40px;
     border-radius: 20px;
-    margin: 0px 300px;
+    margin: 0px 150px;
 }
 
 .section_line {
-    padding: 150px 0px;
+    padding: 80px 0px;
 }
 
 .div_line {
@@ -257,6 +257,18 @@ footer {
     flex-direction: column;
 }
 
+.div_linecarte {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.amboisecarte {
+    border-radius: 55px;
+    height: 750;
+    width: 500;
+}
+
 
 /* BACKGROUND VIDEO */
 
@@ -318,7 +330,7 @@ h2 {
     color: #0099ff;
     font-size: 15px;
 }
-@media screen and (min-width: 2560px) {
+@media screen and (width: 2560px) {
     .accueil {
         padding: 180px 0px 180px 0px;
     }
@@ -341,7 +353,7 @@ h2 {
     
     .box_line {
         padding: 60px;
-        margin: 0px 800px;
+        margin: 0px 150px;
     }
     
     .line3 {
@@ -386,5 +398,10 @@ h2 {
     
     .box_contact {
         margin: 200px 400px 600px 400px;
+    }
+    
+    .amboisecarte {
+        height: 950;
+        width: 650;
     }
 }
