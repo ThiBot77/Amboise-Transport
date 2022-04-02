@@ -13,7 +13,7 @@ nav {
 
 .nom_nav {
     float: right;
-    font-size: 15px;
+    font-size: 18px;
     font-family: 'Raleway';
     display: flex;
     align-items: center;
@@ -22,7 +22,7 @@ nav {
 
 header ul {
     float: left;
-    font-size: 15px;
+    font-size: 18px;
     font-family: 'Raleway';
 }
 
@@ -124,14 +124,14 @@ BODY {
 }
 
 .logo_spozito {
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 200px;
     border-radius: 50px;
 }
 
 .logo_gokart {
-    height: 150px;
-    width: 180px;
+    height: 200px;
+    width: 240px;
     border-radius: 25px;
     margin-left: 20px;
 }
@@ -178,7 +178,7 @@ BODY {
     display: flex;
     justify-content: center;
     background-color: #1b1b1b;
-    margin: 150px 100px 300px 100px;
+    margin: 150px 100px 400px 100px;
     border-radius: 50px;
     width: 50%;
 }
@@ -318,66 +318,12 @@ h2 {
     font-size: 15px;
 }
 @media screen and (min-width: 2560px) {
-    .accueil {
-        padding: 180px 0px 180px 0px;
-    }
-    
     .about_section {
         padding: 40px 0px 40px 0px;
     }
     
-    .title_white {
-        color: white;
-        font-size: 22px;
-        font-family: Raleway;
-    }
-    
-    .title_blue {
-        font-size: 25px;
-    }
-    
-    .p_about {
-        font-size: 23px;
-        margin: 40px 450px;
-    }
-    
-    .HR_ABOUT {
-        margin: 0px 1150px;
-    }
-    
-    .btn {
-        font-size: 20px;
-    }
-    
     .box_line {
-        padding: 60px 150px;
-        margin: 50px 150px 250px;
-    }
-    
-    .line3 {
-        font-size: 20px;
-    }
-    
-    .line46 {
-        font-size: 20px;
-    }
-    
-    .line47 {
-        ;
-        color: white;
-        font-size: 20px;
-    }
-    
-    .line51 {
-        font-size: 20px;
-    }
-    
-    .destination_text {
-        font-size: 20px;
-    }
-    
-    .div_partenaire_text {
-        font-size: 20px;
+        margin-bottom: 450px;
     }
     
     .logo_spozito {
@@ -391,8 +337,7 @@ h2 {
     }
     
     .div_box_partenaire {
-        margin: 150px 100px 550px 100px;
-        width: 50%;
+        margin-bottom: 650px;
     }
     
     .box_contact {
@@ -410,102 +355,20 @@ h2 {
     .grades {
         font-size: 18px;
     }
-    
-    footer {
-        font-size: 20px;
-    }
-    
-    .nom_nav {
-        font-size: 20px;
-    }
-    
-    header ul {
-        font-size: 20px;
-    }
 }
 @media screen and (min-width: 1385px) and (max-width: 1834px) {
-    .accueil {
-        padding: 180px 0px 180px 0px;
-    }
-    
     .about_section {
         padding: 30px 0px 30px 0px;
     }
     
-    .accueil {
-        padding: 100px 0px;
-    }
-    
-    .dep_title {
-        font-size: 20px;
-    }
-    
-    .border_img {
-        width: 200px;
-        height: 200px;
-    }
-    
-    .title_white {
-        font-size: 18px;
-    }
-    
-    .title_blue {
-        font-size: 20px;
-    }
-    
-    .p_about {
-        font-size: 16px;
-        margin: 40px 150px;
-    }
-    
-    .btn {
-        font-size: 16px;
-    }
-    
-    .box_line {
-        padding: 60px;
-        margin: 0px 150px;
-    }
-    
-    .line3 {
-        font-size: 18px;
-    }
-    
-    .line46 {
-        font-size: 18px;
-    }
-    
-    .line47 {
-        ;
-        color: white;
-        font-size: 18px;
-    }
-    
-    .line51 {
-        font-size: 18px;
-    }
-    
-    .destination_text {
-        font-size: 18px;
-    }
-    
     .logo_spozito {
-        height: 130px;
-        width: 130px;
+        height: 180px;
+        width: 180px;
     }
     
     .logo_gokart {
-        height: 130px;
-        width: 160px;
-    }
-    
-    .div_box_partenaire {
-        margin: 150px 50px 550px 50px;
-        width: 50%;
-    }
-    
-    .p_partenaire {
-        font-size: 16px;
+        height: 180px;
+        width: 200px;
     }
     
     .box_contact {
@@ -528,84 +391,20 @@ h2 {
     .grades {
         font-size: 14px;
     }
-    
-    .nom_nav {
-        font-size: 18px;
-    }
-    
-    header ul {
-        font-size: 18px;
-    }
-    
-    footer {
-        font-size: 18px;
-    }
 }
 @media screen and (min-width: 1377px) and (max-width: 1561px) {
-    .accueil {
-        padding: 180px 0px 180px 0px;
-    }
-    
     .about_section {
         padding: 20px 0px 20px 0px;
     }
     
-    .title_blue {
-        font-size: 20px;
-    }
-    
-    .title_white {
-        font-size: 18px;
-    }
-    
-    .p_about {
-        font-size: 18px;
-    }
-    
-    .btn {
-        font-size: 18px;
-    }
-    
-    .box_line {
-        padding: 60px;
-        margin: 0px 150px;
-    }
-    
-    .line3 {
-        font-size: 18px;
-    }
-    
-    .line46 {
-        font-size: 18px;
-    }
-    
-    .line47 {
-        ;
-        color: white;
-        font-size: 18px;
-    }
-    
-    .line51 {
-        font-size: 18px;
-    }
-    
-    .destination_text {
-        font-size: 18px;
-    }
-    
     .logo_spozito {
-        height: 200px;
-        width: 200px;
+        height: 150px;
+        width: 150px;
     }
     
     .logo_gokart {
-        height: 200px;
-        width: 240px;
-    }
-    
-    .div_box_partenaire {
-        margin: 150px 50px 550px 50px;
-        width: 50%;
+        height: 150px;
+        width: 170px;
     }
     
     .box_contact {
@@ -628,83 +427,24 @@ h2 {
     .grades {
         font-size: 15px;
     }
-    
-    .nom_nav {
-        font-size: 18px;
-    }
-    
-    header ul {
-        font-size: 18px;
-    }
-    
-    footer {
-        font-size: 18px;
-    }
 }
 @media screen and (min-width: 1150px) and (max-width: 1376px) {
-    .accueil {
-        padding: 180px 0px 180px 0px;
-    }
-    
     .about_section {
         padding: 20px 0px 20px 0px;
     }
     
-    .title_blue {
-        font-size: 20px;
-    }
-    
-    .p_about {
-        font-size: 18px;
-    }
-    
-    .btn {
-        font-size: 18px;
-    }
-    
-    .box_line {
-        padding: 60px;
-        margin: 0px 150px;
-    }
-    
-    .line3 {
-        font-size: 18px;
-    }
-    
-    .line46 {
-        font-size: 18px;
-    }
-    
-    .line47 {
-        color: white;
-        font-size: 18px;
-    }
-    
-    .line51 {
-        font-size: 18px;
-    }
-    
-    .destination_text {
-        font-size: 18px;
-    }
-    
     .logo_spozito {
-        height: 200px;
-        width: 200px;
+        height: 140px;
+        width: 140px;
     }
     
     .logo_gokart {
-        height: 200px;
-        width: 240px;
-    }
-    
-    .div_box_partenaire {
-        margin: 150px 50px 550px 50px;
-        width: 50%;
+        height: 140px;
+        width: 160px;
     }
     
     .box_contact {
-        margin: 100px 50px 250px 50px;
+        margin: 100px 50px 550px 50px;
     }
     
     .responsable_picture {
@@ -722,17 +462,5 @@ h2 {
     
     .grades {
         font-size: 12px;
-    }
-    
-    .nom_nav {
-        font-size: 18px;
-    }
-    
-    header ul {
-        font-size: 18px;
-    }
-    
-    footer {
-        font-size: 18px;
     }
 }
