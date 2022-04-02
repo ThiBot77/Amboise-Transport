@@ -60,7 +60,7 @@ BODY {
 
 .title_blue {
     color: #0099ff;
-    font-size: 25px;
+    font-size: 20px;
     font-family: Raleway;
 }
 
@@ -71,11 +71,12 @@ BODY {
 .p_about {
     color: white;
     text-align: center;
-    font-size: 20px;
+    font-size: 18px;
     padding: 20px 0px;
     font-family: raleway;
     padding: 0px 180px 0px 180px;
     text-align: center;
+    margin: 30px 150px;
 }
 
 .border_img {
@@ -137,7 +138,7 @@ BODY {
 
 .box_line {
     background-color: white;
-    padding: 40px;
+    padding: 50px 80px;
     border-radius: 20px;
     margin: 0px 150px 150px;
 }
@@ -155,7 +156,7 @@ BODY {
 
 .title_white {
     color: white;
-    font-size: 20px;
+    font-size: 18px;
     font-family: Raleway;
 }
 
@@ -295,7 +296,7 @@ h2 {
     color: white;
     padding: 16px 32px;
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     margin: 4px 2px;
     opacity: 1;
     transition: 0.3s;
@@ -325,12 +326,23 @@ h2 {
         padding: 40px 0px 40px 0px;
     }
     
+    .title_white {
+        color: white;
+        font-size: 22px;
+        font-family: Raleway;
+    }
+    
     .title_blue {
-        font-size: 35px;
+        font-size: 25px;
     }
     
     .p_about {
-        font-size: 25px;
+        font-size: 23px;
+        margin: 40px 450px;
+    }
+    
+    .HR_ABOUT {
+        margin: 0px 1150px;
     }
     
     .btn {
@@ -339,7 +351,7 @@ h2 {
     
     .box_line {
         padding: 60px 150px;
-        margin: 100px 150px 200px;
+        margin: 50px 150px 250px;
     }
     
     .line3 {
@@ -411,7 +423,7 @@ h2 {
         font-size: 20px;
     }
 }
-@media screen and (min-width: 1365px) and (max-width: 1834px) {
+@media screen and (min-width: 1385px) and (max-width: 1834px) {
     .accueil {
         padding: 180px 0px 180px 0px;
     }
@@ -442,11 +454,12 @@ h2 {
     }
     
     .p_about {
-        font-size: 15px;
+        font-size: 16px;
+        margin: 40px 150px;
     }
     
     .btn {
-        font-size: 12px;
+        font-size: 16px;
     }
     
     .box_line {
@@ -455,25 +468,25 @@ h2 {
     }
     
     .line3 {
-        font-size: 12px;
+        font-size: 18px;
     }
     
     .line46 {
-        font-size: 12px;
+        font-size: 18px;
     }
     
     .line47 {
         ;
         color: white;
-        font-size: 12px;
+        font-size: 18px;
     }
     
     .line51 {
-        font-size: 12px;
+        font-size: 18px;
     }
     
     .destination_text {
-        font-size: 12px;
+        font-size: 18px;
     }
     
     .logo_spozito {
@@ -492,7 +505,7 @@ h2 {
     }
     
     .p_partenaire {
-        font-size: 12px;
+        font-size: 16px;
     }
     
     .box_contact {
@@ -500,8 +513,8 @@ h2 {
     }
     
     .responsable_picture {
-        width: 130px;
-        height: 130px;
+        width: 160px;
+        height: 160px;
     }
     
     .contact_character {
@@ -509,26 +522,26 @@ h2 {
     }
     
     .p_contact {
-        font-size: 10px;
+        font-size: 14px;
     }
     
     .grades {
-        font-size: 10px;
+        font-size: 14px;
     }
     
     .nom_nav {
-        font-size: 12px;
+        font-size: 18px;
     }
     
     header ul {
-        font-size: 12px;
+        font-size: 18px;
     }
     
     footer {
-        font-size: 12px;
+        font-size: 18px;
     }
 }
-@media screen and (min-width: 1066px) and (max-width: 1364px) {
+@media screen and (min-width: 1066px) and (max-width: 1384px) {
     .accueil {
         padding: 180px 0px 180px 0px;
     }
@@ -605,11 +618,11 @@ h2 {
     }
     
     .p_contact {
-        font-size: 10px;
+        font-size: 8px;
     }
     
     .grades {
-        font-size: 10px;
+        font-size: 8px;
     }
     
     .nom_nav {
