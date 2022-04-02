@@ -396,7 +396,7 @@ h2 {
     }
     
     .box_contact {
-        margin: 200px 300px 600px 300px;
+        margin: 200px 300px 650px 300px;
     }
     
     .contact_character {
@@ -446,7 +446,7 @@ h2 {
     }
     
     .title_white {
-        font-size: 15px;
+        font-size: 18px;
     }
     
     .title_blue {
@@ -554,6 +554,10 @@ h2 {
         font-size: 20px;
     }
     
+    .title_white {
+        font-size: 18px;
+    }
+    
     .p_about {
         font-size: 18px;
     }
@@ -568,25 +572,25 @@ h2 {
     }
     
     .line3 {
-        font-size: 20px;
+        font-size: 18px;
     }
     
     .line46 {
-        font-size: 20px;
+        font-size: 18px;
     }
     
     .line47 {
         ;
         color: white;
-        font-size: 20px;
+        font-size: 18px;
     }
     
     .line51 {
-        font-size: 20px;
+        font-size: 18px;
     }
     
     .destination_text {
-        font-size: 5px;
+        font-size: 18px;
     }
     
     .logo_spozito {
@@ -605,7 +609,7 @@ h2 {
     }
     
     .box_contact {
-        margin: 100px 50px 250px 50px;
+        margin: 100px 50px 450px 50px;
     }
     
     .responsable_picture {
@@ -634,7 +638,7 @@ h2 {
     }
     
     footer {
-        font-size: 10px;
+        font-size: 18px;
     }
 }
 @media screen and (min-width: 1150px) and (max-width: 1376px) {
@@ -729,6 +733,6 @@ h2 {
     }
     
     footer {
-        font-size: 10px;
+        font-size: 18px;
     }
 }
