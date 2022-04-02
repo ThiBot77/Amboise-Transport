@@ -541,25 +541,25 @@ h2 {
         font-size: 18px;
     }
 }
-@media screen and (min-width: 1066px) and (max-width: 1384px) {
+@media screen and (min-width: 1377px) and (max-width: 1561px) {
     .accueil {
         padding: 180px 0px 180px 0px;
     }
     
     .about_section {
-        padding: 80px 0px 80px 0px;
+        padding: 20px 0px 20px 0px;
     }
     
     .title_blue {
-        font-size: 30px;
-    }
-    
-    .p_about {
         font-size: 20px;
     }
     
+    .p_about {
+        font-size: 18px;
+    }
+    
     .btn {
-        font-size: 25px;
+        font-size: 18px;
     }
     
     .box_line {
@@ -609,8 +609,8 @@ h2 {
     }
     
     .responsable_picture {
-        width: 100px;
-        height: 100px;
+        width: 150px;
+        height: 150px;
     }
     
     .contact_character {
@@ -618,19 +618,114 @@ h2 {
     }
     
     .p_contact {
-        font-size: 8px;
+        font-size: 15px;
     }
     
     .grades {
-        font-size: 8px;
+        font-size: 15px;
     }
     
     .nom_nav {
-        font-size: 10px;
+        font-size: 18px;
     }
     
     header ul {
+        font-size: 18px;
+    }
+    
+    footer {
         font-size: 10px;
+    }
+}
+@media screen and (min-width: 1150px) and (max-width: 1376px) {
+    .accueil {
+        padding: 180px 0px 180px 0px;
+    }
+    
+    .about_section {
+        padding: 20px 0px 20px 0px;
+    }
+    
+    .title_blue {
+        font-size: 20px;
+    }
+    
+    .p_about {
+        font-size: 18px;
+    }
+    
+    .btn {
+        font-size: 18px;
+    }
+    
+    .box_line {
+        padding: 60px;
+        margin: 0px 150px;
+    }
+    
+    .line3 {
+        font-size: 18px;
+    }
+    
+    .line46 {
+        font-size: 18px;
+    }
+    
+    .line47 {
+        color: white;
+        font-size: 18px;
+    }
+    
+    .line51 {
+        font-size: 18px;
+    }
+    
+    .destination_text {
+        font-size: 18px;
+    }
+    
+    .logo_spozito {
+        height: 200px;
+        width: 200px;
+    }
+    
+    .logo_gokart {
+        height: 200px;
+        width: 240px;
+    }
+    
+    .div_box_partenaire {
+        margin: 150px 50px 550px 50px;
+        width: 50%;
+    }
+    
+    .box_contact {
+        margin: 100px 50px 250px 50px;
+    }
+    
+    .responsable_picture {
+        width: 130px;
+        height: 130px;
+    }
+    
+    .contact_character {
+        margin: 0px 20px;
+    }
+    
+    .p_contact {
+        font-size: 12px;
+    }
+    
+    .grades {
+        font-size: 12px;
+    }
+    
+    .nom_nav {
+        font-size: 18px;
+    }
+    
+    header ul {
+        font-size: 18px;
     }
     
     footer {
